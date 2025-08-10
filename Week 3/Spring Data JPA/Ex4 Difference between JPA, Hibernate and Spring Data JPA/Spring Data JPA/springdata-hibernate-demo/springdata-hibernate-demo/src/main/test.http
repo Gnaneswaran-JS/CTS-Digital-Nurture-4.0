@@ -1,7 +1,0 @@
-POST http://localhost:8080/employee/add
-Content-Type: application/json
-
-{
-  "name": "John",
-  "department": "HR"
-}
